@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.guestay_app">
+    package="com.example.flutter_hotel_booking_ui">
    <application
-        android:label="guestay_app"
+        android:label="flutter_hotel_booking_ui"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
