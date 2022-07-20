@@ -1,0 +1,642 @@
+[
+    {
+        "text_id": "best_hotel_deals",
+        "en": "Las mejores ofertas de hotel para sus vacaciones"
+    },
+    {
+        "text_id": "already_have_account",
+        "en": "¿Ya tienes cuenta? Iniciar sesión"
+    },
+    {
+        "text_id": "get_started",
+        "en": "Empezar"
+    },
+    {
+        "text_id": "plan_your_trips",
+        "en": "Planifique sus viajes"
+    },
+    {
+        "text_id": "book_one_of_your",
+        "en": "Reserve uno de su hotel único para escapar de lo ordinario"
+    },
+    {
+        "text_id": "find_best_deals",
+        "en": "Encuentra las mejores ofertas"
+    },
+    {
+        "text_id": "find_deals_for_any",
+        "en": "Encuentra ofertas para cualquier temporada de acogedor\ncasas de campo a pisos de la ciudad"
+    },
+    {
+        "text_id": "best_travelling_all_time",
+        "en": "El mejor viaje de todos los tiempos"
+    },
+    {
+        "text_id": "login",
+        "en": "Acceso"
+    },
+    {
+        "text_id": "create_account",
+        "en": "Crear una cuenta"
+    },
+    {
+        "text_id": "log_with mail",
+        "en": "o iniciar sesión con el correo electrónico"
+    },
+    {
+        "text_id": "your_mail",
+        "en": "Tu correo electrónico"
+    },
+    {
+        "text_id": "password",
+        "en": "Clave"
+    },
+    {
+        "text_id": "forgot_your_Password",
+        "en": "¿Olvidaste tu contraseña?"
+    },
+    {
+        "text_id": "resend_email_link",
+        "en": "Ingrese su correo electrónico para recibir un correo electrónico para restablecer su contraseña"
+    },
+    {
+        "text_id": "send",
+        "en": "Enviar"
+    },
+    {
+        "text_id": "registro_cuenta",
+        "en": "Inscribirse"
+    },
+    {
+        "text_id": "first_name",
+        "en": "Primer nombre"
+    },
+    {
+        "text_id": "last_name",
+        "en": "Apellidos"
+    },
+    {
+        "text_id": "terms_agreed",
+        "en": "Al registrarse, usted estuvo de acuerdo con nuestros Términos de \n Servicios y Política de privacidad"
+    },
+    {
+        "text_id": "explorar",
+        "en": "Explorar"
+    },
+    {
+        "text_id": "trips",
+        "en": "Favoritos"
+    },
+    {
+        "text_id": "profile",
+        "en": "Perfil"
+    },
+    {
+        "text_id": "where_are_you_going",
+        "en": "¿A dónde vas?"
+    },
+    {
+        "text_id": "search_hotel",
+        "en": "Búsqueda"
+    },
+    {
+        "text_id": "hotel_data",
+        "en": "Hotel"
+    },
+    {
+        "text_id": "Backpacker_data",
+        "en": "Mochilera"
+    },
+    {
+        "text_id": "Resort_data",
+        "en": "Complejo"
+    },
+    {
+        "text_id": "villa_data",
+        "en": "villa"
+    },
+    {
+        "text_id": "apartment",
+        "en": "Departamento"
+    },
+    {
+        "text_id": "guest_house",
+        "en": "Casa de invitados"
+    },
+    {
+        "text_id": "motel",
+        "en": "motel"
+    },
+    {
+        "text_id": "accommodation",
+        "en": "Accommodation"
+    },
+    {
+        "text_id": "Bed_breakfast",
+        "en": "Bed & Breakfast"
+    },
+    {
+        "text_id": "Last_search",
+        "en": "Last searches"
+    },
+    {
+        "text_id": "clear_all",
+        "en": "Clear all"
+    },
+    {
+        "text_id": "Ecuador",
+        "en": "Ecuador"
+    },
+    {
+        "text_id": "five_star",
+        "en": "Conoce nuestros hoteles y disfruta de tu estadia con nosotros"
+    },
+    {
+        "text_id": "view_hotel",
+        "en": "Ver hoteles"
+    },
+    {
+        "text_id": "hotel found",
+        "en": "Hotel found"
+    },
+    {
+        "text_id": "filtter",
+        "en": "Filtter"
+    },
+    {
+        "text_id": "popular_destination",
+        "en": "Pais"
+    },
+    {
+        "text_id": "best_deal",
+        "en": "Ciudades"
+    },
+    {
+        "text_id": "view_all",
+        "en": "Ver todo"
+    },
+    {
+        "text_id": "km_to_city",
+        "en": "km distancia"
+    },
+    {
+        "text_id": "per_night",
+        "en": "/por noche"
+    },
+    {
+        "text_id": "Reviews",
+        "en": "Reseñas"
+    },
+    {
+        "text_id": "book_now",
+        "en": "Reservar ahora"
+    },
+    {
+        "text_id": "more_details",
+        "en": "Expandir"
+    },
+    {
+        "text_id": "summary",
+        "en": "Contenido"
+    },
+    {
+        "text_id": "read_more",
+        "en": "Leer mas"
+    },
+    {
+        "text_id": "less",
+        "en": "less"
+    },
+    {
+        "text_id": "Overall_rating",
+        "en": "Calificacion promedio"
+    },
+    {
+        "text_id": "room",
+        "en": "Cuarto"
+    },
+    {
+        "text_id": "service",
+        "en": "Servicios"
+    },
+    {
+        "text_id": "location",
+        "en": "Ubicacion"
+    },
+    {
+        "text_id": "price",
+        "en": "Precio"
+    },
+    {
+        "text_id": "room_photo",
+        "en": "Foto"
+    },
+    {
+        "text_id": "last_update",
+        "en": "Ultima reseña"
+    },
+    {
+        "text_id": "reply",
+        "en": "Responder"
+    },
+    {
+        "text_id": "My_Trips",
+        "en": "Mis viajes"
+    },
+    {
+        "text_id": "upcoming",
+        "en": "Upcoming"
+    },
+    {
+        "text_id": "finished",
+        "en": "Finished"
+    },
+    {
+        "text_id": "favorites",
+        "en": "Favorites"
+    },
+    {
+        "text_id": "hotel_found",
+        "en": "Hotel encontrado"
+    },
+    {
+        "text_id": "filtter",
+        "en": "filtrar"
+    },
+    {
+        "text_id": "price_text",
+        "en": "Precio (por 1 noche)"
+    },
+    {
+        "text_id": "popular filter",
+        "en": "Filtro popular"
+    },
+    {
+        "text_id": "distance from city",
+        "en": "Distancia desde el centro de la ciudad"
+    },
+    {
+        "text_id": "type of accommodation",
+        "en": "Tipo de alojamiento"
+    },
+    {
+        "text_id": "Apply_text",
+        "en": "Aplicar"
+    },
+    {
+        "text_id": "all_text",
+        "en":"Todos"
+    },
+    {
+        "text_id": "Home_text",
+        "en": "Hogar"
+    },
+    {
+        "text_id": "free_breakfast",
+        "en": "Desayuno gratis"
+    },
+    {
+        "text_id": "free_Parking",
+        "en": "Estacionamiento gratis"
+    },
+    {
+        "text_id": "pool_text",
+        "en": "Piscina"
+    },
+    {
+        "text_id": "pet_friendlly",
+        "en": "Mascota amigable"
+    },
+    {
+        "text_id": "Free_Wifi",
+        "en": "Wi-Fi gratis"
+    },
+    {
+        "text_id": "Less_than",
+        "en": "Menos que"
+    },
+    {
+        "text_id": "km_text",
+        "en": "Km"
+    },
+    {
+        "text_id": "amanda_text",
+        "en": "Amanda"
+    },
+    {
+        "text_id": "view_edit",
+        "en": "Ver y editar perfil"
+    },
+    {
+        "text_id": "edit_profile",
+        "en": "Editar perfil"
+    },
+    {
+        "text_id": "username_text",
+        "en": "Nombre de usuario"
+    },
+    {
+        "text_id": "phone",
+        "en": "Teléfono"
+    },
+    {
+        "text_id": "date_of_birth",
+        "en": "Fecha de nacimiento"
+    },
+    {
+        "text_id": "address_text",
+        "en":"Dirección"
+    },
+    {
+        "text_id": "mail_text",
+        "en": "Correo electrónico"
+    },
+    {
+        "text_id": "cambiar_contrasenia",
+        "en": "Cambia la contraseña"
+    },
+    {
+        "text_id": "enter_your_new_password",
+        "en": "Enter your new password and confirm your password"
+    },
+    {
+        "text_id": "new_password",
+        "en": "New Password"
+    },
+    {
+        "text_id": "confirm_password",
+        "en": "Confirm Password"
+    },
+    {
+        "text_id": "invite_friend",
+        "en": "Invite Friend"
+    },
+    {
+        "text_id": "invite_your_friend",
+        "en": "Invite your Friend"
+    },
+    {
+        "text_id": "invite_friend_desc",
+        "en": "are you one of those who makes everything at the last moment"
+    },
+    {
+        "text_id": "share_text",
+        "en": "Share"
+    },
+    {
+        "text_id": "credit_coupons",
+        "en": "Crdit & Coupons"
+    },
+    {
+        "text_id": "help_center",
+        "en": "Help Center"
+    },
+    {
+        "text_id": "how_can_help_you",
+        "en": "How can we help"
+    },
+    {
+        "text_id": "search_help_artical",
+        "en": "Search help articales"
+    },
+    {
+        "text_id": "paying_for_a_reservation",
+        "en": "Paying for a reservation"
+    },
+    {
+        "text_id": "trust_and_safety",
+        "en": "Trust and Safety"
+    },
+    {
+        "text_id": "How do I ",
+        "en": "How do I cancel my rooms reservation?"
+    },
+    {
+        "text_id": "What methods ",
+        "en": "What methods of payment does Roome accept?"
+    },
+    {
+        "text_id": "I'm_a_guest_What",
+        "en": "I'm a guest. What are some safety tips I can follow?"
+    },
+    {
+        "text_id": "When am I charged",
+        "en": "When am I charged for a reservation?"
+    },
+    {
+        "text_id": "How do I edit",
+        "en": "How do I edit or remove a payment method?"
+    },
+    {
+        "text_id": "You can cancel",
+        "en": "You can cancel a reservation any time before Or during your trip. To cancel a reservation:"
+    },
+    {
+        "text_id": "GO to Trips and choose yotr trip",
+        "en": "GO to Trips and choose yotr trip Click Your home reservation Click Modify reservation"
+    },
+    {
+        "text_id": "You'll be taken to",
+        "en": "You'll be taken to a new page where you either change or cancel your reservation. Click the Next button under Cancel reservation to Start the cancellation process."
+    },
+    {
+        "text_id": "If you cancel, your ",
+        "en": "If you cancel, your refund Will be determined by your host'r cancellation policy. We'll show your refund breakdown before you finalize the cancellation."
+    },
+    {
+        "text_id": "Give feedback",
+        "en": "Give feedback"
+    },
+    {
+        "text_id": "Related articles",
+        "en": "Related articles"
+    },
+    {
+        "text_id": "Can I change",
+        "en": "Can I change a reservation as a guest?"
+    },
+    {
+        "text_id": "HoW do I cancel",
+        "en": "HoW do I cancel a reservation request?"
+    },
+    {
+        "text_id": "What is the",
+        "en": "What is the Resolution Center?"
+    },
+    {
+        "text_id": "payment_text",
+        "en": "Payment"
+    },
+    {
+        "text_id": "setting_text",
+        "en": "Setting"
+    },
+    {
+        "text_id": "Notifications",
+        "en": "Notifications"
+    },
+    {
+        "text_id": "Theme Mode",
+        "en": "Theme Mode"
+    },
+    {
+        "text_id": "light",
+        "en": "light"
+    },
+    {
+        "text_id": "dark",
+        "en": "dark"
+    },
+    {
+        "text_id": "system",
+        "en": "system"
+    },
+    {
+        "text_id": "Fonts",
+        "en": "Fonts"
+    },
+    {
+        "text_id": "selected_fonts",
+        "en": "Fuentes seleccionadas"
+    },
+    {
+        "text_id": "Color",
+        "en": "Color"
+    },
+    {
+        "text_id": "Selected color",
+        "en": "Color seleccionado"
+    },
+    {
+        "text_id": "Language",
+        "en": "Idioma"
+    },
+    {
+        "text_id": "Selected language",
+        "en": "Selected language"
+    },
+    {
+        "text_id": "Country",
+        "en": "Country"
+    },
+    {
+        "text_id": "Currency",
+        "en": "Divisa"
+    },
+    {
+        "text_id": "Terms of Services",
+        "en": "Términos de servicios"
+    },
+    {
+        "text_id": "Privacy Policy",
+        "en": "Política de privacidad"
+    },
+    {
+        "text_id": "Give Us Feedbacks",
+        "en": "Danos comentarios"
+    },
+    {
+        "text_id": "Log out",
+        "en":"Cerrar sesión"
+    },
+    {
+        "text_id": "Hello",
+        "en": "Hola"
+    },
+    {
+        "text_id": "room_selected",
+        "en": "Room selected"
+    },
+    {
+        "text_id": "number_room",
+        "en": "Personas"
+    },
+    {
+        "text_id": "people_data",
+        "en": "Adultos"
+    },
+    {
+        "text_id": "room_data",
+        "en": "Cuarto"
+    },
+    {
+        "text_id": "choose_date",
+        "en": "Elegir fecha"
+    },
+    {
+        "text_id": "Apply_date",
+        "en": "Aplicar"
+    },
+    {
+        "text_id": "From_text",
+        "en": "De"
+    },
+    {
+        "text_id": "to_text",
+        "en": "A"
+    },
+    {
+        "text_id": "sleeps",
+        "en": "max"
+    },
+    {
+        "text_id": "children",
+        "en": "niños"
+    },
+    {
+        "text_id": "enter_new_password",
+        "en": "ingrese nueva clave"
+    },
+    {
+        "text_id": "enter_confirm_password",
+        "en": "Ingrese la contraseña de confirmación"
+    },
+    {
+        "text_id": "password_cannot_empty",
+        "en": "La contraseña no puede estar vacía"
+    },
+    {
+        "text_id": "valid_new_password",
+        "en":"No podemos permitir menos de 6 longitudes de la contraseña, ingrese una nueva contraseña válida"
+    },
+    {
+        "text_id": "valid_password",
+        "en": "No podemos permitir menos de 6 longitudes de la contraseña, ingrese una contraseña válida"
+    },
+    {
+        "text_id": "password_not_match",
+        "en": "La contraseña no coincide, ingrese una contraseña válida"
+    },
+    {
+        "text_id": "enter_your_email",
+        "en":"Introduce tu correo electrónico"
+    },
+    {
+        "text_id": "email_cannot_empty",
+        "en": "El correo electrónico no puede estar vacío"
+    },
+    {
+        "text_id": "enter_valid_email",
+        "en": "Ingrese una dirección de correo electrónico válida, abc@xyz.com"
+    },
+    {
+        "text_id": "enter_password",
+        "en": "introducir la contraseña"
+    },
+    {
+        "text_id": "enter_first_name",
+        "en": "Ingrese el primer nombre "
+    },
+    {
+        "text_id": "enter_last_name",
+        "en": "Ingrese el primer nombre"
+    },
+    {
+        "text_id": "first_name_cannot_empty",
+        "en": "El primer nombre no puede estar vacío"
+    },
+    {
+        "text_id": "last_name_cannot_empty",
+        "en": "El apellido no puede estar vacío"
+    }
+]
