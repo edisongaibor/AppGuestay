@@ -177,6 +177,23 @@ class _HomeExploreScreenState extends State<HomeExploreScreen>
                     : null,
                 child: Opacity(
                   opacity: opecity,
+                  child: CommonButton(
+                    onTap: () {
+                      if (opecity != 0) {
+                        NavigationServices(context).gotoHotelHomeScreen();
+                      }
+                    },
+                    buttonTextWidget: Padding(
+                      padding: const EdgeInsets.only(
+                          left: 24, right: 24, top: 8, bottom: 8),
+                      child: Text(
+                        AppLocalizations(context).of("view_hotel"),
+                        style: TextStyles(context)
+                            .getRegularStyle()
+                            .copyWith(color: AppTheme.whiteColor),
+                      ),
+                    ),
+                  ),
                 ),
               ),
             ],
@@ -219,6 +236,16 @@ class _HomeExploreScreenState extends State<HomeExploreScreen>
         CurvedAnimation(
           parent: widget.animationController,
           curve: Interval(0, 1.0, curve: Curves.fastOutSlowIn),
+        ),
+      );
+      list.add(
+        HotelListViewPage(
+          callback: () {
+            NavigationServices(context).gotoHotelDetailes(f);
+          },
+          hotelData: f,
+          animation: animation,
+          animationController: widget.animationController,
         ),
       );
     });
